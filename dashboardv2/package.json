@@ -41,7 +41,7 @@
     "jquery-sparkline": "2.4.0",
     "jquery-steps": "1.1.0",
     "jstree": "3.3.5",
-    "moment": "2.21.0",
+    "moment": "2.29.2",
     "moment-timezone": "0.5.14",
     "npm": "^5.8.0",
     "nvd3": "1.8.5",
