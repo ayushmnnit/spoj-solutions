@@ -64,7 +64,7 @@
     "grunt-contrib-htmlmin": "2.2.0",
     "grunt-contrib-rename": "^0.2.0",
     "grunt-contrib-uglify": "2.1.0",
-    "grunt-contrib-watch": "1.0.0",
+    "grunt-contrib-watch": "1.1.0",
     "grunt-middleware-proxy": "1.0.7",
     "grunt-sass": "2.1.0",
     "grunt-template": "1.0.0",
